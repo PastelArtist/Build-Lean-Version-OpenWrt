@@ -21,7 +21,7 @@ on:
 
 env:
   REPO_URL: https://github.com/PasteArtist/lede
-  REPO_BRANCH: R20.7.1
+  REPO_BRANCH: 20200701
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: Build-OpenWrt-Xiaomi-Mi4A-Giga.config
   DIY_P1_SH: diy-part1.sh
