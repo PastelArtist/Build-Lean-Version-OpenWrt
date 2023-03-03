@@ -24,7 +24,7 @@ env:
   REPO_BRANCH: 20200701
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: Build-OpenWrt-v4-Xiaomi-Mi4A-Giga.config
-  DIY_P1_SH: diy-part1.sh
+  DIY_P1_SH: diy-part1-Build-OpenWrt-v4-Xiaomi-Mi4A-Giga.sh
   DIY_P2_SH: diy-part2-Build-OpenWrt-v4-Xiaomi-Mi4A-Giga.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
