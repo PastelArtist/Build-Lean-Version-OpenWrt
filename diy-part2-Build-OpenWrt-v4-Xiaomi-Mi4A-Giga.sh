@@ -6,7 +6,7 @@
 # See /LICENSE for more information.
 #
 # https://github.com/P3TERX/Actions-OpenWrt
-# File name: diy-part2-Build-OpenWrt-v4-Xiaomi-Mi4A-Giga.sh
+# File name: diy-part2
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
 
